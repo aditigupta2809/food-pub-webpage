@@ -1,0 +1,64 @@
+body{
+    background-image:url(Non_Veg_Burger_and_Knife_5K_Image_Background.jpg);
+    background-position: center;
+    background-size: cover;
+    font-family: cursive;
+}
+
+header{
+        height: 70px;
+        border: solid 0px;
+        margin-top: 20px;
+}
+
+section{
+    border: solid 0px;
+    height: 580px;
+}
+
+.logo{
+    float: right;
+}
+
+.btn1{
+    
+    border: 0px solid white;
+    padding: 20px 30px;
+    color: white;
+    text-decoration: none;
+    transition: 0.6s ease;
+    border: 0px transparent;
+}
+.btn1:hover{
+    background-color: black;
+    color: coral;
+}
+
+.title{
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%,-50%);    
+}
+.button{
+    position: absolute;
+    top: 62%;
+    left:50%;
+    transform: translate(-50%,-50%);}
+
+.title h1{
+    color: white;
+    font-size: 50px;
+}
+
+.btn{
+    border:1px solid white;
+    padding: 10px 30px;
+    color: white;
+    text-decoration: none;
+    transition: 0.6s ease;
+}
+.btn:hover{
+    background-color: black;
+    color: coral;
+}

@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:cursive;
+}
+body{
+    
+    background-image:url(contact.jpg);
+    background-size: cover;
+    height:700px;
+    width:100px;
+    background-position: center;
+    background-size: cover;
+    
+}
+h1{
+    color: white;
+    font-size: 40px;
+    position: absolute;
+    top: 10%;
+    left:50%;
+    transform: translate(-50%,-50%);  
+    
+}
+.one{
+    color: white;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 20px;
+}
+form{
+    margin-top:300px; 
+    
+}
+textarea{
+    resize: none;
+}
+.form-control{
+    height:30px;
+    width: 400px;
+    border: 0px transparent;
+    margin-left: 220px;
+    padding:2px;
+    font-size: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    
+    
+}
+.icons{
+    height:300px;
+    width: 400px;
+    border:0px solid;
+    margin-left:700px;
+    margin-top:-300px;
+    color: white;
+    font-size:20px;
+    
+}
+footer{
+    height: 50px;
+    width:1340px;
+    margin-top:15px;
+    
+}
+.fa {
+  
+  padding:8px;
+  font-size:15px;
+  width:15px;
+  text-align: center;
+  text-decoration: none;
+  border-radius:100%;
+  float: right;
+    margin-right:60px;
+
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background:white;
+  color:black;
+}
+
+.fa-twitter {
+  background:white;
+  color:black;
+}
+
+.fa-google {
+  background:white;
+  color: black;
+}
+
+.fa-linkedin {
+  background:white;
+  color:black;
+}
+
+.fa-youtube {
+  background: white;
+  color: black;
+}
+
+.fa-instagram {
+  background: white;
+  color: black;
+}
